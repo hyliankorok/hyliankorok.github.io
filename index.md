@@ -50,7 +50,7 @@
     </head>
     <body>
         
-        <h1 id="top">Vegard's blog</h1>
+        <h1 id="top">Hylian's blog</h1>
 
         <h3>Contents</h3>
         <ul>
